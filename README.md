@@ -3,6 +3,6 @@ A Java exercise using Scanner input to assign arguments to a parameterized const
 
 Instructions. 
 
-1. Clone repo 
-2. Compile file by running **javac** Dog.java
-3. Execute file by running **java** Dog
+1. Clone repo.
+2. Compile file by running **javac** Dog.java in your command line.
+3. Execute file by running **java** Dog in your command line.
